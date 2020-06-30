@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Dilnei-Idealize\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Dilnei-Idealize\\.nuget\\packages"
+    ]
+  }
+}
